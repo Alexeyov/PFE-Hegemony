@@ -1,9 +1,9 @@
 {
-    "id": "pfe_heg",
-    "name": "Portrait Faction Expanded: Hegemony",
-    "author": "Alexey",
-    "version": "1.00",
-    "description": "Custom new portraits for the Hegemony and player",
-    "gameVersion": "0.95.1a-RC6",
-    
+  "id": "pfe",
+  "name": "Portrait Faction Expanded",
+  "author": "Alexey",
+  "version": "1.00",
+  "description": "Custom new portraits for every vanilla faction and player",
+  "gameVersion": "0.98a-RC8",
+  "originalGameVersion": "0.98a-RC8"
 }
