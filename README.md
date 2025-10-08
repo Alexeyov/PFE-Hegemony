@@ -4,6 +4,5 @@ A Portrait pack mod for Starsector, with a total of 140 new portraits available 
 
 Enjoy them :)
 
-![collage](https://github.com/user-attachments/assets/119a912e-3999-49c3-9ea5-c5bbb05ceef6)
-
+![collage](https://github.com/user-attachments/assets/ccd811b4-e410-4444-80d2-513d0a1c7f40)
 
